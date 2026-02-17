@@ -1,0 +1,8 @@
+{
+  "name": "Zahir Shaikh Portfolio",
+  "description": "A high-end, minimalist portfolio website for a .NET Fullstack Engineer, inspired by modern editorial design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
