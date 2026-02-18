@@ -11,7 +11,11 @@ const App: React.FC = () => {
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
+      if ((window as any).lenis) {
+        (window as any).lenis.scrollTo(element);
+      } else {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
     }
   };
 
