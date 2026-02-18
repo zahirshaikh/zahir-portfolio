@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
       <div className="relative -mt-12 w-full flex items-center justify-center lg:justify-end animate-in fade-in zoom-in-95 duration-1000 delay-300">
         <div className="relative w-full max-w-md lg:max-w-lg aspect-[3/4] overflow-hidden">
           <img
-            src="/pfp-nobg.png"
+            src="pfp-nobg.png"
             alt="Zahir Shaikh"
             className="w-full h-full object-contain grayscale"
             onError={(e) => {
