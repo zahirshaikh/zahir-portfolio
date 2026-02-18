@@ -93,7 +93,7 @@ const Projects: React.FC = () => {
               <div className="aspect-[4/3] w-full overflow-hidden bg-white/50 group-hover:bg-white/5 transition-colors duration-500">
                  <img 
                   src={idx === 0 
-                    ? "https://images.unsplash.com/photo-1436491865332-7a61a109c0f2?auto=format&fit=crop&q=80&w=800" 
+                    ? "airline.jpg" 
                     : idx === 1 
                       ? "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800"
                       : "https://images.unsplash.com/photo-1454165205744-3b78555e5572?auto=format&fit=crop&q=80&w=800"

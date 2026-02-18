@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
           <p className="text-[10px] uppercase tracking-[0.5em] text-black/40 font-semibold mb-4">
             Fullstack Engineer
           </p>
-          <h1 className="text-6xl md:text-[6rem] lg:text-[8rem] leading-[0.85] serif font-normal text-[#1a1a1a] -ml-1">
+          <h1 className="text-6xl md:text-[6rem] min-[1110px]:text-[8rem] leading-[0.85] serif font-normal text-[#1a1a1a] -ml-1">
             Zahir <br /> Shaikh
           </h1>
         </div>
