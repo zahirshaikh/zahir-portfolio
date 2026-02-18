@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero: React.FC = () => {
   return (
-    <div className="w-full max-w-7xl mx-auto px-8 md:px-16 grid grid-cols-1 min-[950px]:grid-cols-2 items-center gap-12 min-[950px]:gap-8 pt-0 min-[950px]:pt-12 min-[1001px]:pt-0 pb-10 min-[950px]:py-0">
+    <div className="w-full max-w-7xl mx-auto px-8 md:px-16 grid grid-cols-1 min-[950px]:grid-cols-[1.2fr_0.8fr] items-center gap-12 min-[950px]:gap-16 pt-6 min-[950px]:pt-16 pb-10 min-[950px]:py-0">
       {/* Left Column: Text */}
       <div className="flex flex-col animate-in fade-in slide-in-from-left-8 duration-1000">
         <div className="space-y-1">
@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
           </h1>
         </div>
 
-        <div className="mt-12 max-w-md">
+        <div className="mt-12 max-w-md min-[950px]:max-w-xl">
           <p className="text-[#666] text-sm md:text-base leading-relaxed tracking-wide font-light border-l-2 border-black/5 pl-6">
             Building resilient .NET Core architectures and high-performance
             digital experiences with precision and purpose.
