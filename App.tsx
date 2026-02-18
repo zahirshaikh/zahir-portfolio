@@ -1,13 +1,35 @@
 
-import React from 'react';
+import React, { useEffect } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './sections/Hero';
 import About from './sections/About';
 import Projects from './sections/Projects';
 import Contact from './sections/Contact';
 import ScrollReveal from './components/ScrollReveal';
+import Lenis from 'lenis';
 
 const App: React.FC = () => {
+  useEffect(() => {
+    const lenis = new Lenis({
+      duration: 1.2,
+      easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+      smoothWheel: true,
+    });
+
+    function raf(time: number) {
+      lenis.raf(time);
+      requestAnimationFrame(raf);
+    }
+
+    requestAnimationFrame(raf);
+
+    (window as any).lenis = lenis;
+
+    return () => {
+      lenis.destroy();
+    };
+  }, []);
+
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
     if (element) {
