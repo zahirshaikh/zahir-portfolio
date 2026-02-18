@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero: React.FC = () => {
   return (
-    <div className="w-full max-w-7xl mx-auto px-8 md:px-16 grid grid-cols-1 lg:grid-cols-2 items-end gap-16 lg:gap-8 pt-0 pb-10 lg:py-0">
+    <div className="w-full max-w-7xl mx-auto px-8 md:px-16 grid grid-cols-1 lg:grid-cols-2 items-center lg:items-end gap-12 lg:gap-8 pt-0 pb-10 lg:py-0">
       {/* Left Column: Text */}
       <div className="flex flex-col lg:-mt-12 animate-in fade-in slide-in-from-left-8 duration-1000">
         <div className="space-y-1">
