@@ -2,9 +2,9 @@ import React from "react";
 
 const Hero: React.FC = () => {
   return (
-    <div className="w-full max-w-7xl mx-auto px-8 md:px-16 grid grid-cols-1 lg:grid-cols-2 items-center lg:items-end gap-12 lg:gap-8 pt-0 pb-10 lg:py-0">
+    <div className="w-full max-w-7xl mx-auto px-8 md:px-16 grid grid-cols-1 lg:grid-cols-2 items-center gap-12 lg:gap-8 pt-0 pb-10 lg:py-0">
       {/* Left Column: Text */}
-      <div className="flex flex-col lg:-mt-12 animate-in fade-in slide-in-from-left-8 duration-1000">
+      <div className="flex flex-col animate-in fade-in slide-in-from-left-8 duration-1000">
         <div className="space-y-1">
           <p className="text-[10px] uppercase tracking-[0.5em] text-black/40 font-semibold mb-4">
             Fullstack Engineer
@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
       </div>
 
       {/* Right Column: Your Portrait */}
-      <div className="relative lg:-mt-12 w-full flex items-center justify-center lg:justify-end animate-in fade-in zoom-in-95 duration-1000 delay-300">
+      <div className="relative lg:-mt-10 w-full flex items-center justify-center lg:justify-end animate-in fade-in zoom-in-95 duration-1000 delay-300">
         <div className="relative w-full max-w-md lg:max-w-lg aspect-[3/4] overflow-hidden">
           <img
             src="pfp-nobg.png"

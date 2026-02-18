@@ -38,7 +38,7 @@ const Contact: React.FC = () => {
         <div className="pt-20 flex justify-center gap-10 md:gap-16">
           <a href="https://linkedin.com/in/zahirshaikhedu" target="_blank" className="text-[12px] uppercase tracking-[0.4em] font-semibold text-white/50 hover:text-white transition-all">LinkedIn</a>
           <a href="https://github.com/zahirshaikh" target="_blank" className="text-[12px] uppercase tracking-[0.4em] font-semibold text-white/50 hover:text-white transition-all">GitHub</a>
-          <a href="https://x.com/zahirshaikh" target="_blank" className="text-[12px] uppercase tracking-[0.4em] font-semibold text-white/50 hover:text-white transition-all">X</a>
+          <a href="https://x.com/zahirshaikh_" target="_blank" className="text-[12px] uppercase tracking-[0.4em] font-semibold text-white/50 hover:text-white transition-all">X</a>
         </div>
       </div>
     </div>

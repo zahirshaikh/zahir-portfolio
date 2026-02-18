@@ -1,5 +1,5 @@
 
-import React, { useEffect } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './sections/Hero';
 import About from './sections/About';
@@ -9,6 +9,9 @@ import ScrollReveal from './components/ScrollReveal';
 import Lenis from 'lenis';
 
 const App: React.FC = () => {
+  const [isHeaderVisible, setIsHeaderVisible] = useState(true);
+  const heroRef = useRef<HTMLElement>(null);
+
   useEffect(() => {
     const lenis = new Lenis({
       duration: 1.2,
@@ -25,8 +28,20 @@ const App: React.FC = () => {
 
     (window as any).lenis = lenis;
 
+    const handleScroll = () => {
+      if (heroRef.current) {
+        const heroHeight = heroRef.current.offsetHeight;
+        const scrollPosition = window.scrollY;
+        // Hide header as soon as we scroll past the hero section (minus some buffer)
+        setIsHeaderVisible(scrollPosition < heroHeight - 80);
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+
     return () => {
       lenis.destroy();
+      window.removeEventListener('scroll', handleScroll);
     };
   }, []);
 
@@ -70,7 +85,7 @@ const App: React.FC = () => {
 
       {/* Main Sections */}
       <main className="flex-1">
-        <section id="hero" className="min-h-[calc(100dvh-80px)] lg:h-auto flex items-center lg:items-start px-6 md:px-12 pt-16 lg:pt-0 pb-12 md:pb-24 overflow-hidden">
+        <section ref={heroRef} id="hero" className="min-h-[calc(100dvh-80px)] lg:h-auto flex items-center px-6 md:px-12 pt-16 lg:pt-0 pb-12 md:pb-24 overflow-hidden">
           <ScrollReveal className="w-full">
             <Hero />
           </ScrollReveal>
@@ -99,7 +114,7 @@ const App: React.FC = () => {
         <div className="flex gap-8">
           <a href="https://linkedin.com/in/zahirshaikhedu" target="_blank" className="hover:text-white transition-colors">LinkedIn</a>
           <a href="https://github.com/zahirshaikh" target="_blank" className="hover:text-white transition-colors">GitHub</a>
-          <a href="https://x.com/zahirshaikh" target="_blank" className="hover:text-white transition-colors">X</a>
+          <a href="https://x.com/zahirshaikh_" target="_blank" className="hover:text-white transition-colors">X</a>
         </div>
         <div className="text-center">
           &copy; {new Date().getFullYear()} Zahir Shaikh — .NET Fullstack Engineer
