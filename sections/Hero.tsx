@@ -22,7 +22,8 @@ const Hero: React.FC = () => {
 
           <div className="mt-12 flex items-center gap-8">
             <a
-              href="#"
+              href="/zahir-portfolio/zahir-shaikh-resume.pdf"
+              download="Zahir-Shaikh-Resume.pdf"
               className="inline-block bg-black text-white text-[11px] uppercase tracking-[0.3em] font-medium px-12 py-5 hover:bg-black/80 transition-all duration-500 shadow-xl shadow-black/10 transform hover:-translate-y-1 active:scale-95"
             >
               Download Resume
