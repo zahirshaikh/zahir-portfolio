@@ -67,7 +67,7 @@ const App: React.FC = () => {
           Z
         </div>
         
-        <div className="flex-1 flex justify-end pr-8 md:pr-24 lg:pr-48">
+        <div className="flex-1 flex justify-end pr-3 md:pr-24 lg:pr-48">
           <Navbar onNavigate={scrollToSection} />
         </div>
         
