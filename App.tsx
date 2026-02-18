@@ -85,7 +85,7 @@ const App: React.FC = () => {
 
       {/* Main Sections */}
       <main className="flex-1">
-        <section ref={heroRef} id="hero" className="min-h-[calc(100dvh-80px)] lg:h-auto flex items-center px-6 md:px-12 pt-16 lg:pt-0 pb-12 md:pb-24 overflow-hidden">
+        <section ref={heroRef} id="hero" className="min-h-[calc(100dvh-80px)] min-[950px]:h-auto flex items-center px-6 md:px-12 pt-16 min-[950px]:pt-0 pb-12 md:pb-24 overflow-hidden">
           <ScrollReveal className="w-full">
             <Hero />
           </ScrollReveal>
