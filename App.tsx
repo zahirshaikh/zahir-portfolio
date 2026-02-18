@@ -44,7 +44,7 @@ const App: React.FC = () => {
 
       {/* Main Sections */}
       <main className="flex-1">
-        <section id="hero" className="h-auto px-6 md:px-12 pt-0 pb-12 md:pb-24 overflow-hidden">
+        <section id="hero" className="h-auto px-6 md:px-12 pt-24 lg:pt-0 pb-12 md:pb-24 overflow-hidden">
           <ScrollReveal className="w-full">
             <Hero />
           </ScrollReveal>
