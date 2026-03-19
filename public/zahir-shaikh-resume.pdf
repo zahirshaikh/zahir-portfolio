@@ -1,169 +1,16 @@
-%PDF-1.4
-%‚„œ”
-5 0 obj
-<<
-/Type /Font
-/BaseFont /Helvetica
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-6 0 obj
-<<
-/Type /Font
-/BaseFont /Helvetica-Bold
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-7 0 obj
-<<
-/Type /Font
-/BaseFont /Helvetica-Oblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-8 0 obj
-<<
-/Type /Font
-/BaseFont /Helvetica-BoldOblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-9 0 obj
-<<
-/Type /Font
-/BaseFont /Courier
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-10 0 obj
-<<
-/Type /Font
-/BaseFont /Courier-Bold
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-11 0 obj
-<<
-/Type /Font
-/BaseFont /Courier-Oblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-12 0 obj
-<<
-/Type /Font
-/BaseFont /Courier-BoldOblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-13 0 obj
-<<
-/Type /Font
-/BaseFont /Times-Roman
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-14 0 obj
-<<
-/Type /Font
-/BaseFont /Times-Bold
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-15 0 obj
-<<
-/Type /Font
-/BaseFont /Times-Italic
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-16 0 obj
-<<
-/Type /Font
-/BaseFont /Times-BoldItalic
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-17 0 obj
-<<
-/Type /Font
-/BaseFont /ZapfDingbats
-/Subtype /Type1
-/FirstChar 32
-/LastChar 255
->>
-endobj
-18 0 obj
-<<
-/Type /Font
-/BaseFont /Symbol
-/Subtype /Type1
-/FirstChar 32
-/LastChar 255
+%PDF-1.3
+%∫ﬂ¨‡
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
 >>
 endobj
 4 0 obj
 <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/Font <<
-/F1 5 0 R
-/F2 6 0 R
-/F3 7 0 R
-/F4 8 0 R
-/F5 9 0 R
-/F6 10 0 R
-/F7 11 0 R
-/F8 12 0 R
-/F9 13 0 R
-/F10 14 0 R
-/F11 15 0 R
-/F12 16 0 R
-/F13 17 0 R
-/F14 18 0 R
->>
-/XObject <<
->>
->>
-endobj
-19 0 obj
-<<
-/Length 5795
+/Length 5608
 >>
 stream
 0.5670000000000001 w
@@ -188,292 +35,475 @@ BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-57.6000000000000085 733.4648031496062686 Td
+54. 733.4648031496062686 Td
 (PROFESSIONAL SUMMARY) Tj
 ET
 0.78 G
-57.6000000000000085 719.7167716535433328 m
-537.67999999999995 719.7167716535433328 l
+54. 719.7167716535433328 m
+541.279999999999859 719.7167716535433328 l
 S
 BT
 /F1 10 Tf
 11.5 TL
 0.102 g
-57.6000000000000085 705.5435433070865656 Td
-(Analytical .NET Fullstack Engineer with a strong foundation in Data Structures & Algorithms \(DSA\) and) Tj
-T* (Object-Oriented Programming \(OOP\). Experienced in developing scalable REST APIs and high-performance) Tj
-T* (web applications using C#, ASP.NET Core, and React. Passionate about AI integration and prompt) Tj
-T* (engineering, with a proven ability to optimize workflows and design cloud-native architectures in Microsoft) Tj
-T* (Azure.) Tj
+54. 705.5435433070865656 Td
+(Results-driven .NET Developer with a strong foundation in building secure, scalable RESTful APIs and) Tj
+T* (high-performance web applications. Proficient in C#, Entity Framework Core, and SQL Server with a focus on) Tj
+T* (writing optimized queries and maintainable code. Experienced in cloud-native architectures using Microsoft) Tj
+T* (Azure \(App Services, Functions\) and passionate about integrating machine learning models into production) Tj
+T* (systems. Adept at using Git for version control and implementing CI/CD practices through GitHub Actions to) Tj
+T* (ensure reliable software delivery.) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-57.6000000000000085 633.2600787401574962 Td
+54. 623.3388188976377933 Td
 (PROFESSIONAL EXPERIENCE) Tj
 ET
 0.78 G
-57.6000000000000085 619.5120472440944468 m
-537.67999999999995 619.5120472440944468 l
+54. 609.5907874015747439 m
+541.279999999999859 609.5907874015747439 l
 S
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-57.6000000000000085 605.3388188976377933 Td
+54. 595.4175590551180903 Td
 (Savitribai Phule Pune University) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-437.4049999999999159 605.3388188976377933 Td
+441.0049999999998249 595.4175590551180903 Td
 (June 2025 ñ Present) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-57.6000000000000085 591.1655905511811397 Td
+54. 581.2443307086614368 Td
 (Software Engineer ñ Academic & Project Experience) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 575.5750393700786844 Td
-(ï Developed an AI bots orchestrator utilizing advanced prompt engineering and logic to manage complex) Tj
-T* (automated workflows based on time-driven triggers.) Tj
+59.6692913385826742 565.6537795275589815 Td
+(ï Designed and engineered an AI bot orchestrator using .NET C# to manage complex automated workflows) Tj
+T* (with high reliability.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 547.2285826771653774 Td
-(ï Reduced execution latency by 30% through the implementation of efficient algorithms and optimized) Tj
+59.6692913385826742 537.3073228346456744 Td
+(ï Reduced workflow execution latency by 30% through optimized SQL query execution and efficient) Tj
 T* (client-side state handling.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 518.8821259842519567 Td
-(ï Designed responsive UIs with React and TypeScript, ensuring seamless communication with backend) Tj
-T* (systems via REST APIs.) Tj
+59.6692913385826742 508.9608661417322537 Td
+(ï Developed robust RESTful APIs with ASP.NET Core, ensuring secure and scalable communication) Tj
+T* (between frontend and backend systems.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 490.5356692913385928 Td
-(ï Collaborated in a team environment applying SDLC best practices, code reviews, and debugging to) Tj
-T* (deliver high-quality features.) Tj
+59.6692913385826742 480.6144094488188898 Td
+(ï Collaborated in an Agile-style academic team, actively participating in code reviews, debugging) Tj
+T* (performance bottlenecks, and documenting API contracts.) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-57.6000000000000085 445.1813385826771423 Td
+54. 435.2600787401574394 Td
 (PROJECTS) Tj
 ET
 0.78 G
-57.6000000000000085 431.4333070866141497 m
-537.67999999999995 431.4333070866141497 l
+54. 421.5120472440944468 m
+541.279999999999859 421.5120472440944468 l
 S
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-57.6000000000000085 417.2600787401574962 Td
+54. 407.3388188976377933 Td
 (NomadBank) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-494.5249999999999773 417.2600787401574962 Td
+498.1249999999999432 407.3388188976377933 Td
 (Ongoing) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-57.6000000000000085 403.0868503937007858 Td
-(Full-stack International Banking System) Tj
+54. 393.1655905511810829 Td
+(Full-stack International Banking System using .NET 9 and SQL Server) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 387.4962992125983874 Td
-(ï Engineered a multi-currency banking system using OOP principles to handle complex transactions and) Tj
-T* (global wallet management.) Tj
+59.6692913385826742 377.5750393700787413 Td
+(ï Architected a full-stack International Banking System focused on secure multi-currency wallet) Tj
+T* (management and global transfers.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 359.1498425196850235 Td
-(ï Architected a structured service layer in .NET 9 to ensure efficient data processing and RESTful API) Tj
-T* (delivery.) Tj
+59.6692913385826742 349.2285826771653205 Td
+(ï Implemented a clean, structured service layer using Entity Framework Core to handle complex business) Tj
+T* (logic and data persistence.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 330.8033858267716596 Td
-(ï Implemented state management between frontend and backend to facilitate seamless real-time user) Tj
+59.6692913385826742 320.8821259842519567 Td
+(ï Designed and optimized SQL Server database schemas to ensure data integrity and high-speed) Tj
+T* (transaction processing.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+59.6692913385826742 292.5356692913385359 Td
+(ï Integrated frontend state management with backend REST APIs, focusing on security and seamless user) Tj
 T* (interaction.) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.314 g
-57.6000000000000085 293.952992125984224 Td
+54. 255.6852755905511003 Td
 (Euroleads) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.314 g
-493.05499999999995 293.952992125984224 Td
+496.6549999999999159 255.6852755905511003 Td
 (Feb 2026) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-57.6000000000000085 279.7797637795275705 Td
-(Lead Generation and Web Scraping Platform) Tj
+54. 241.5120472440944468 Td
+(Lead generation automation system) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 264.1892125984251152 Td
-(ï Designed a lead generation engine using C# and SQL Server to scrape and process geographic and) Tj
-T* (domain-specific business data.) Tj
+59.6692913385826742 225.9214960629921052 Td
+(ï Developed a lead generation system that automates data scraping and business identification using .NET) Tj
+T* (background services.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 235.8427559055118081 Td
-(ï Enhanced conversion rates by developing filtering algorithms that target high-value service niches.) Tj
+59.6692913385826742 197.5750393700786844 Td
+(ï Engineered a scalable backend capable of processing large datasets from Google Maps and categorizing) Tj
+T* (leads by domain and location.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-63.2692913385826827 220.2522047244094665 Td
-(ï Utilized SQL queries for complex data retrieval and management of business leads.) Tj
+59.6692913385826742 169.2285826771652637 Td
+(ï Utilized SQL Server for efficient storage and retrieval of lead data, allowing users to generate) Tj
+T* (high-conversion business targets.) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-57.6000000000000085 187.6537795275589815 Td
+54. 123.8742519685039269 Td
 (SKILLS) Tj
 ET
 0.78 G
-57.6000000000000085 173.9057480314960458 m
-537.67999999999995 173.9057480314960458 l
+54. 110.126220472440906 m
+541.279999999999859 110.126220472440906 l
 S
 BT
 /F1 10 Tf
 11.5 TL
 0.102 g
-57.6000000000000085 159.7325196850393922 Td
-(Data Structures & Algorithms \(DSA\) ï Object-Oriented Programming \(OOP\) ï C# ï ASP.NET Core ï React ï) Tj
-T* (TypeScript ï SQL Server ï REST APIs ï AI Concepts ï Prompt Engineering ï GitHub/Git ï Microsoft Azure ï) Tj
-T* (Analytical Problem-Solving) Tj
+54. 95.952992125984224 Td
+(C# ï SQL ï ASP.NET Core ï Entity Framework Core ï RESTful APIs ï SQL Server Optimization ï Microsoft) Tj
+T* (Azure \(App Services, Functions, Azure SQL\) ï Machine Learning Integration ï GitHub Actions \(CI/CD\) ï Unit) Tj
+T* (Testing Basics ï Git ï TypeScript ï React) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-57.6000000000000085 107.291574803149615 Td
+54. 43.5120472440944468 Td
 (EDUCATION) Tj
 ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 419
+>>
+stream
+0.5670000000000001 w
 0.78 G
-57.6000000000000085 93.5435433070865088 m
-537.67999999999995 93.5435433070865088 l
+0.78 G
+54. 790.7246456692912489 m
+541.279999999999859 790.7246456692912489 l
 S
 BT
 /F1 10 Tf
 11.5 TL
 0.102 g
-57.6000000000000085 79.3703149606297984 Td
-(Bachelor of Computer Engineering, Savitribai Phule Pune University \(CGPA: 8.10\), 2023 ñ 2026) Tj
+54. 776.5514173228345953 Td
+(Bachelor of Computer Engineering, Savitribai Phule Pune University, CGPA: 8.10, 2023 ñ 2026) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.102 g
-57.6000000000000085 63.7797637795274568 Td
+54. 760.9608661417322537 Td
 (Diploma in Computer Engineering, Abhaysinhraje Bhosle Institute of Technology, 2020 ñ 2023) Tj
 ET
 endstream
 endobj
-3 0 obj
-<<
-/Type /Page
-/MediaBox [0 0 595.28 841.89]
-/Resources 4 0 R
-/Contents 19 0 R
-/Parent 2 0 R
->>
-endobj
-2 0 obj
-<<
-/Type /Pages
-/Kids [3 0 R]
-/Count 1
->>
-endobj
 1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
 >>
 endobj
 20 0 obj
 <<
-/Producer (iLovePDF)
-/ModDate (D:20260319094856Z)
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.0)
+/CreationDate (D:20260319154133+05'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
 >>
 endobj
 xref
-0 21
-0000000000 65535 f
-0000008039 00000 n
-0000007982 00000 n
-0000007871 00000 n
-0000001775 00000 n
-0000000015 00000 n
-0000000140 00000 n
-0000000270 00000 n
-0000000403 00000 n
-0000000540 00000 n
-0000000663 00000 n
-0000000792 00000 n
-0000000924 00000 n
-0000001060 00000 n
-0000001188 00000 n
-0000001315 00000 n
-0000001444 00000 n
-0000001577 00000 n
-0000001679 00000 n
-0000002023 00000 n
-0000008088 00000 n
+0 23
+0000000000 65535 f 
+0000006419 00000 n 
+0000008244 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005812 00000 n 
+0000005949 00000 n 
+0000006482 00000 n 
+0000006607 00000 n 
+0000006737 00000 n 
+0000006870 00000 n 
+0000007008 00000 n 
+0000007132 00000 n 
+0000007261 00000 n 
+0000007393 00000 n 
+0000007529 00000 n 
+0000007657 00000 n 
+0000007784 00000 n 
+0000007913 00000 n 
+0000008046 00000 n 
+0000008148 00000 n 
+0000008494 00000 n 
+0000008580 00000 n 
 trailer
 <<
-/Size 21
-/Root 1 0 R
-/Info 20 0 R
-/ID [<19D8A46B7DFB908D291ACE42B88C7624> <4794A36EDDD11AAD59A22ADA6F3603CD>]
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <852E74F3A58592F60D4BF0E69005573F> <852E74F3A58592F60D4BF0E69005573F> ]
 >>
 startxref
-8160
+8684
 %%EOF
