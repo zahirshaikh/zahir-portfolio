@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 5608
+/Length 5546
 >>
 stream
 0.5670000000000001 w
@@ -19,14 +19,14 @@ BT
 /F2 14 Tf
 16.0999999999999979 TL
 0.102 g
-255.7799999999999727 787.8899999999999864 Td
+255.7799999999999727 784.2899999999999636 Td
 (Zahir Shaikh) Tj
 ET
 BT
 /F1 9 Tf
 10.3499999999999996 TL
 0.392 g
-83.980000000000075 768.3309448818897636 Td
+83.980000000000075 764.7309448818897408 Td
 (Location: Pune, Maharashtra, India | Phone: +91-9764435475 | Email: zahirshaikhedu@gmail.com | GitHub:) Tj
 84.0149999999998585 -10.3499999999999996 Td
 (github.com/zahirshaikh | LinkedIn: linkedin.com/in/zahirshaikhedu) Tj
@@ -35,224 +35,219 @@ BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-54. 733.4648031496062686 Td
+72. 729.8648031496062458 Td
 (PROFESSIONAL SUMMARY) Tj
 ET
 0.78 G
-54. 719.7167716535433328 m
-541.279999999999859 719.7167716535433328 l
+72. 716.1167716535433101 m
+523.2799999999999727 716.1167716535433101 l
 S
 BT
 /F1 10 Tf
 11.5 TL
 0.102 g
-54. 705.5435433070865656 Td
-(Results-driven .NET Developer with a strong foundation in building secure, scalable RESTful APIs and) Tj
-T* (high-performance web applications. Proficient in C#, Entity Framework Core, and SQL Server with a focus on) Tj
-T* (writing optimized queries and maintainable code. Experienced in cloud-native architectures using Microsoft) Tj
-T* (Azure \(App Services, Functions\) and passionate about integrating machine learning models into production) Tj
-T* (systems. Adept at using Git for version control and implementing CI/CD practices through GitHub Actions to) Tj
-T* (ensure reliable software delivery.) Tj
+72. 701.9435433070866566 Td
+(Performance-driven Fullstack Engineer with a strong foundation in building scalable enterprise-grade) Tj
+T* (applications using C#, .NET, and EF Core. Experienced in designing RESTful APIs and modern) Tj
+T* (frontend architectures with TypeScript and React \(adaptable to Angular\). Proven ability to translate) Tj
+T* (complex business requirements into technical solutions, with a deep understanding of cloud-native) Tj
+T* (architectures and SQL data modeling. Committed to delivering high-quality, end-to-end software) Tj
+T* (solutions in cross-functional team environments.) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-54. 623.3388188976377933 Td
+72. 619.7388188976377705 Td
 (PROFESSIONAL EXPERIENCE) Tj
 ET
 0.78 G
-54. 609.5907874015747439 m
-541.279999999999859 609.5907874015747439 l
+72. 605.9907874015747211 m
+523.2799999999999727 605.9907874015747211 l
 S
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-54. 595.4175590551180903 Td
+72. 591.8175590551180676 Td
 (Savitribai Phule Pune University) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-441.0049999999998249 595.4175590551180903 Td
+423.0049999999999386 591.8175590551180676 Td
 (June 2025 – Present) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-54. 581.2443307086614368 Td
+72. 577.6443307086613004 Td
 (Software Engineer – Academic & Project Experience) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 565.6537795275589815 Td
-(• Designed and engineered an AI bot orchestrator using .NET C# to manage complex automated workflows) Tj
-T* (with high reliability.) Tj
+77.6692913385826813 562.0537795275590724 Td
+(• Architected an AI bot orchestration platform designed to handle complex, time-sensitive business) Tj
+T* (workflows, aligning with enterprise talent management and administration use cases.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 537.3073228346456744 Td
-(• Reduced workflow execution latency by 30% through optimized SQL query execution and efficient) Tj
-T* (client-side state handling.) Tj
+77.6692913385826813 533.7073228346456517 Td
+(• Enhanced system efficiency by reducing workflow execution latency by 30% through optimized) Tj
+T* (state handling and backend service performance tuning.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 508.9608661417322537 Td
-(• Developed robust RESTful APIs with ASP.NET Core, ensuring secure and scalable communication) Tj
-T* (between frontend and backend systems.) Tj
+77.6692913385826813 505.360866141732231 Td
+(• Developed intuitive, responsive frontends using TypeScript and React, ensuring seamless) Tj
+T* (integration with backend RESTful APIs.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 480.6144094488188898 Td
-(• Collaborated in an Agile-style academic team, actively participating in code reviews, debugging) Tj
-T* (performance bottlenecks, and documenting API contracts.) Tj
+77.6692913385826813 477.0144094488188671 Td
+(• Collaborated closely within a cross-functional team environment, participating in code reviews and) Tj
+T* (debugging to maintain high standards of solution architecture and delivery quality.) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-54. 435.2600787401574394 Td
+72. 431.6600787401574166 Td
 (PROJECTS) Tj
 ET
 0.78 G
-54. 421.5120472440944468 m
-541.279999999999859 421.5120472440944468 l
+72. 417.9120472440944241 m
+523.2799999999999727 417.9120472440944241 l
 S
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-54. 407.3388188976377933 Td
+72. 403.7388188976377705 Td
 (NomadBank) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.102 g
-498.1249999999999432 407.3388188976377933 Td
+480.1249999999999432 403.7388188976377705 Td
 (Ongoing) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-54. 393.1655905511810829 Td
-(Full-stack International Banking System using .NET 9 and SQL Server) Tj
+72. 389.5655905511810602 Td
+(ASP.NET Core \(.NET 9\) Web API, React, SQL Server, REST APIs) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 377.5750393700787413 Td
-(• Architected a full-stack International Banking System focused on secure multi-currency wallet) Tj
-T* (management and global transfers.) Tj
+77.6692913385826813 373.9750393700787185 Td
+(• Engineering a full-stack International Banking System featuring multi-currency wallets and global) Tj
+T* (transfer capabilities, utilizing a structured service layer for complex business logic.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 349.2285826771653205 Td
-(• Implemented a clean, structured service layer using Entity Framework Core to handle complex business) Tj
-T* (logic and data persistence.) Tj
+77.6692913385826813 345.6285826771652978 Td
+(• Designing robust data models and SQL database schemas to handle secure financial) Tj
+T* (transactions and people administration data.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 320.8821259842519567 Td
-(• Designed and optimized SQL Server database schemas to ensure data integrity and high-speed) Tj
-T* (transaction processing.) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0.314 g
-59.6692913385826742 292.5356692913385359 Td
-(• Integrated frontend state management with backend REST APIs, focusing on security and seamless user) Tj
-T* (interaction.) Tj
+77.6692913385826813 317.2821259842519339 Td
+(• Implementing asynchronous communication patterns and API contracts to ensure high availability) Tj
+T* (and scalability.) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.314 g
-54. 255.6852755905511003 Td
+72. 280.4317322834644983 Td
 (Euroleads) Tj
 ET
 BT
 /F2 10.5 Tf
 12.0749999999999993 TL
 0.314 g
-496.6549999999999159 255.6852755905511003 Td
+478.6549999999999159 280.4317322834644983 Td
 (Feb 2026) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-54. 241.5120472440944468 Td
-(Lead generation automation system) Tj
+72. 266.2585039370078448 Td
+(ASP.NET Core Web API, React, SQL Server) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 225.9214960629921052 Td
-(• Developed a lead generation system that automates data scraping and business identification using .NET) Tj
-T* (background services.) Tj
+77.6692913385826813 250.6679527559055032 Td
+(• Developed a high-performance lead generation system with advanced data modeling to find and) Tj
+T* (categorize service-based businesses.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0.314 g
-59.6692913385826742 197.5750393700786844 Td
-(• Engineered a scalable backend capable of processing large datasets from Google Maps and categorizing) Tj
-T* (leads by domain and location.) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0.314 g
-59.6692913385826742 169.2285826771652637 Td
-(• Utilized SQL Server for efficient storage and retrieval of lead data, allowing users to generate) Tj
-T* (high-conversion business targets.) Tj
+77.6692913385826813 222.3214960629920824 Td
+(• Built scalable backend services using C# and EF Core to process large datasets and generate) Tj
+T* (high-conversion business leads.) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-54. 123.8742519685039269 Td
+72. 176.967165354330632 Td
 (SKILLS) Tj
 ET
 0.78 G
-54. 110.126220472440906 m
-541.279999999999859 110.126220472440906 l
+72. 163.2191338582676678 m
+523.2799999999999727 163.2191338582676678 l
 S
 BT
 /F1 10 Tf
 11.5 TL
 0.102 g
-54. 95.952992125984224 Td
-(C# • SQL • ASP.NET Core • Entity Framework Core • RESTful APIs • SQL Server Optimization • Microsoft) Tj
-T* (Azure \(App Services, Functions, Azure SQL\) • Machine Learning Integration • GitHub Actions \(CI/CD\) • Unit) Tj
-T* (Testing Basics • Git • TypeScript • React) Tj
+72. 149.0459055118109291 Td
+(C# • .NET Core • EF Core • TypeScript • JavaScript • HTML5 • CSS3 • ASP.NET Core Web API •) Tj
+T* (RESTful APIs • React • SQL Server \(RDS\) • AWS Basics \(MSK, Redis\) • Microsoft Azure • Data) Tj
+T* (Modeling • Git • Jira • SDLC • Solution Architecture) Tj
 ET
 BT
 /F2 11 Tf
 12.6499999999999986 TL
 0.102 g
-54. 43.5120472440944468 Td
+72. 96.6049606299212655 Td
 (EDUCATION) Tj
+ET
+0.78 G
+72. 82.8569291338582161 m
+523.2799999999999727 82.8569291338582161 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.102 g
+72. 68.6837007874015626 Td
+(Bachelor of Computer Engineering, Savitribai Phule Pune University, CGPA: 8.10 \(2023 – 2026\)) Tj
 ET
 endstream
 endobj
@@ -266,28 +261,17 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 419
+/Length 186
 >>
 stream
 0.5670000000000001 w
 0.78 G
-0.78 G
-54. 790.7246456692912489 m
-541.279999999999859 790.7246456692912489 l
-S
 BT
 /F1 10 Tf
 11.5 TL
 0.102 g
-54. 776.5514173228345953 Td
-(Bachelor of Computer Engineering, Savitribai Phule Pune University, CGPA: 8.10, 2023 – 2026) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0.102 g
-54. 760.9608661417322537 Td
-(Diploma in Computer Engineering, Abhaysinhraje Bhosle Institute of Technology, 2020 – 2023) Tj
+72. 784.2899999999999636 Td
+(Diploma in Computer Engineering, Abhaysinhraje Bhosle Institute of Technology \(2020 – 2023\)) Tj
 ET
 endstream
 endobj
@@ -461,7 +445,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 4.2.0)
-/CreationDate (D:20260319154133+05'30')
+/CreationDate (D:20260321132506+05'30')
 >>
 endobj
 22 0 obj
@@ -475,35 +459,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000006419 00000 n 
-0000008244 00000 n 
+0000006124 00000 n 
+0000007949 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000005812 00000 n 
-0000005949 00000 n 
-0000006482 00000 n 
-0000006607 00000 n 
-0000006737 00000 n 
-0000006870 00000 n 
-0000007008 00000 n 
-0000007132 00000 n 
-0000007261 00000 n 
-0000007393 00000 n 
-0000007529 00000 n 
-0000007657 00000 n 
-0000007784 00000 n 
-0000007913 00000 n 
-0000008046 00000 n 
-0000008148 00000 n 
-0000008494 00000 n 
-0000008580 00000 n 
+0000005750 00000 n 
+0000005887 00000 n 
+0000006187 00000 n 
+0000006312 00000 n 
+0000006442 00000 n 
+0000006575 00000 n 
+0000006713 00000 n 
+0000006837 00000 n 
+0000006966 00000 n 
+0000007098 00000 n 
+0000007234 00000 n 
+0000007362 00000 n 
+0000007489 00000 n 
+0000007618 00000 n 
+0000007751 00000 n 
+0000007853 00000 n 
+0000008199 00000 n 
+0000008285 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <852E74F3A58592F60D4BF0E69005573F> <852E74F3A58592F60D4BF0E69005573F> ]
+/ID [ <C7226A417A3F4105583E5DAD9FCFF495> <C7226A417A3F4105583E5DAD9FCFF495> ]
 >>
 startxref
-8684
+8389
 %%EOF
